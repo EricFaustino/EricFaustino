@@ -17,7 +17,7 @@
 ##
 
 <div>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portifolio-3e3b3b?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a>
+    <a href="https://eric-alvim.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-3e3b3b?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a>
     <a href="mailto:ericf;alvim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/eric-alvim-7358a3223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
